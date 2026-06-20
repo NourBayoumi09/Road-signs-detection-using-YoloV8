@@ -35,17 +35,6 @@ https://universe.roboflow.com/selfdriving-car-qtywx/self-driving-cars-lfjou
 - Visualization of predictions.
 - Real-time object detection capability.
 
-## Project Structure
-
-```text
-├── dataset/
-├── runs/
-├── Road_sign_detection_system_using_YOLO_8.ipynb
-├── images/
-├── requirements.txt
-└── README.md
-```
-
 ## Training
 
 The model was trained on 3,530 images and validated on 801 images. Final evaluation was performed on a separate test set containing 638 images to assess generalization performance.
